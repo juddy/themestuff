@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p $HOME/.icons/default
+cp -R cursors $HOME/.icons/default/
+echo "[Icon Theme]" > $HOME/.icons/default/index.php
+echo "Inherits=cursors" >> $HOME/.icons/default/index.php 
