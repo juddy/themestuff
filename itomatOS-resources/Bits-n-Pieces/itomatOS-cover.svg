@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/itomato"
+   sodipodi:docname="itomatOS-cover.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="220.05705"
+     inkscape:cy="300.14896"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="902"
+     inkscape:window-height="583"
+     inkscape:window-x="326"
+     inkscape:window-y="297">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="678.82251"
+       id="guide4277" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="68.690373"
+       id="guide4279" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="84.852814"
+       id="guide4281" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans"
+       x="64.402374"
+       y="372.06766"
+       id="text2963"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2965"
+         x="64.402374"
+         y="372.06766"
+         style="font-size:64px;font-weight:bold;letter-spacing:-5.98274708">it<tspan
+   style="letter-spacing:-8.67648792"
+   id="tspan4200">omat</tspan>OS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans"
+       x="68.186371"
+       y="921.6814"
+       id="text3942"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3944"
+         x="68.186371"
+         y="921.6814"
+         style="font-size:36px;font-weight:bold;letter-spacing:-2.52537704"><tspan
+   style="letter-spacing:-3.53552794"
+   id="tspan3960">GN</tspan><tspan
+   id="tspan4006"
+   style="letter-spacing:-2.52537489">U</tspan><tspan
+   id="tspan3996"
+   style="letter-spacing:-1.51522195">/</tspan>L<tspan
+   style="letter-spacing:-5.21911716"
+   id="tspan4080">inux</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="68.186371"
+         y="966.6814"
+         style="font-size:36px;font-weight:bold;letter-spacing:-2.52537704"
+         id="tspan3950"><tspan
+   style="letter-spacing:-1.51522505"
+   id="tspan3978">f</tspan><tspan
+   id="tspan3986"
+   style="letter-spacing:-4.54568386">or</tspan> 2D <tspan
+   id="tspan4116"
+   style="letter-spacing:-0.60609001">M</tspan><tspan
+   id="tspan4128"
+   style="letter-spacing:-1.616243">ed</tspan><tspan
+   id="tspan4122"
+   style="letter-spacing:-4.14162111">ia </tspan></tspan></text>
+    <image
+       y="458.59308"
+       x="262.28183"
+       id="image4274"
+       height="537"
+       width="427"
+       sodipodi:absref="/media/250/_itomatOS/itomatOS-wave-logo-LG.png"
+       xlink:href="/media/250/_itomatOS/itomatOS-wave-logo-LG.png" />
+  </g>
+</svg>

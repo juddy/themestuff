@@ -1,0 +1,84 @@
+<comps>
+ <group>
+  <version>0.5</version>
+  <id>lightgui</id>
+  <name>Morphix icewm</name>
+  <repositorylist>
+   <repository type="debian">ftp://ftp.debian.org/debian</repository>
+<!--   <repository type="debian">ftp://192.168.0.1/debian</repository>-->
+   <repository type="plain">http://www.morphix.org/debian</repository>
+  </repositorylist>
+  <description>Morphix icewm mainmodule</description>
+  <type>mainmod</type>
+  <suite>sid</suite>
+  <packagelist>
+<!-- remove exim4 exim4-base exim4-config mailx ? -->
+<packagereq>abiword</packagereq>
+<packagereq>alsa-base</packagereq>
+<packagereq>alsa-utils</packagereq>
+<packagereq>aspell</packagereq>
+<packagereq>balsa</packagereq>
+<packagereq>bzip2</packagereq>
+<packagereq>beep-media-player</packagereq>
+<packagereq>cdrecord</packagereq>
+<packagereq>cloop-utils</packagereq>
+<packagereq>dhcp-client</packagereq>
+<packagereq>gaim</packagereq>
+<!--<packagereq>gedit</packagereq>-->
+<packagereq>scite</packagereq>
+<packagereq>dialog</packagereq>
+<packagereq>dillo</packagereq>
+<packagereq>euro-support</packagereq>
+<packagereq>ftp</packagereq>
+<packagereq>gftp-gtk</packagereq>
+<packagereq>gimp</packagereq>
+<packagereq>gksu</packagereq>
+<packagereq>gnupg</packagereq>
+<!--<packagereq>gnumeric</packagereq>-->
+<packagereq>grub</packagereq>
+<packagereq>gs</packagereq>
+<packagereq>hdparm</packagereq>
+<packagereq>hotplug</packagereq>
+<packagereq>icewm</packagereq>
+<packagereq>icewm-themes</packagereq>
+<packagereq>icepref</packagereq>
+<packagereq>iceconf</packagereq>
+<packagereq>less</packagereq>
+<packagereq>linux-wlan-ng</packagereq>
+<packagereq>menu</packagereq>
+<packagereq>menu-xdg</packagereq>
+<packagereq>mkisofs</packagereq>
+<packagereq>mutt</packagereq>
+<packagereq>module-init-tools</packagereq> <!-- necessary for kernels 2.5+ -->
+<packagereq>most</packagereq>
+<packagereq>mozilla-firefox</packagereq>
+<!--<packagereq>mozilla-thunderbird</packagereq>-->
+<packagereq>mtools</packagereq>
+<packagereq>pcmcia-cs</packagereq>
+<packagereq>pump</packagereq>
+<packagereq>reiserfsprogs</packagereq>
+<packagereq>rsync</packagereq>
+<packagereq>samba-common</packagereq>
+<packagereq>ssh</packagereq>
+<packagereq>sudo</packagereq>
+<packagereq>smbclient</packagereq>
+<packagereq>smbfs</packagereq>
+<packagereq>synaptic</packagereq>
+<packagereq>wget</packagereq>
+<packagereq>vnc-common</packagereq>
+<packagereq>vim-gtk</packagereq>
+<packagereq>wireless-tools</packagereq>
+<packagereq>xchat</packagereq>
+<!--<packagereq>xdialog</packagereq>-->
+<packagereq>xfsprogs</packagereq>
+<packagereq>xpdf</packagereq>
+<packagereq>xvncviewer</packagereq>
+<packagereq>xbase-clients</packagereq>
+<packagereq>x-window-system-core</packagereq>
+<packagereq>xloadimage</packagereq> <!-- necessary for xsetbg at boot -->
+<packagereq>xserver-xfree86</packagereq>
+<packagereq>xterm</packagereq>
+<packagereq>morphix-init-icewm</packagereq>
+</packagelist>
+</group>
+</comps>
