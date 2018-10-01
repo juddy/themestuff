@@ -1,9 +1,17 @@
-This is an Alpha set of the themes and stuff for the dufunct itomatOS
+This is an Alpha set of the themes and stuff for the dufunct itomatOS project
 
-The old icons, Volume 2.
+GTK Theme - and the eterm theme that begat it, as well as it's sister WindowMaker theme
 
-A GTK Theme that probably originated on Solaris
+![](Abceba.b.png)
 
-Some cursors inspired by NeXTStep/Mac OS X - with twists..
+![](itomatOS-wmaker-rc3.png)
 
-![](Overview-64px.png)
+Icons at 48, 64 and 128 pixels for use in your preferred desktop environment. Rox filer iconset included.
+
+![](icons.png)
+![](itomatOS-icons-Vol2a-128px.png)
+![](itomatOS-icons-Vol2a-48px.png)
+![](itomatOS-icons-Vol2a-64px.png)
+
+
+
